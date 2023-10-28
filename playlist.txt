@@ -1,10 +1,7 @@
 Song-Artist
 
-<<<<<<< HEAD
 Buleya - Arijit
 Tum Hi Ho- Pritam
-=======
 The Race is on - George Jones
 The Race is on - George Jones2
 The Race is on - George Jones3
->>>>>>> old-song
